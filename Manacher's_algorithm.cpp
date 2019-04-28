@@ -2,7 +2,6 @@
 using namespace std ;
 
 const int N = 1e5 + 5 ;
-
 int p[N] ;
 
 string preProcess(string s){
