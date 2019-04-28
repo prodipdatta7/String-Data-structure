@@ -3,7 +3,6 @@ using namespace std ;
 
 const int N = 1e5 + 5 ;
 const int k = 16 ;
-
 int par[N][k + 1] , dep[N];
 vector < vector < int > > g ;
 
